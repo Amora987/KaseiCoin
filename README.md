@@ -15,4 +15,5 @@ To develope the smart contract for KaseiCoinn token, the user must follow these 
 2. The user needs to confirms their proper recieving address when purchasing, so that the tokens are not sent to the wrong address or lost.
 
 # Deployed
-![](Executionn_Results/deployed.PNG)
+Deployed Contract:
+![](Execution_Results/deployed.PNG)
